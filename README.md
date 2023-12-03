@@ -6,7 +6,7 @@
 
 Install
 
-`pip install git+ssh://git@github.com/luch91/Preprocessing-package.git`
+`pip install git+ssh://git@github.com/luch91/Preprocessing_package.git`
 
 Uninstall
 
