@@ -6,7 +6,7 @@ with open('README.md', 'r') as file:
 
 	setuptools.setup(
 		name = 'preprocess_luch',
-		version = '1.0.0',
+		version = '1.1.0',
 		author = 'Oluchi Judith',
 		author_email = 'judithluchi@gmail.com',
 		description = 'This is nlp preprocessing package',

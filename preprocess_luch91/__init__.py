@@ -1,6 +1,6 @@
 from preprocess_luch import utils
 
-__version__ = '1.0.0'
+__version__ = '1.1.0'
 
 def get_wordcounts(x):
 	return utils._getwordcounts(x)
@@ -60,10 +60,10 @@ def convert_to_base(x):
 	return utils._convert_to_base(x)
 
 def remove_commonwords(x, n=20):
-	return utils._remove_commonwords(x, n=20)
+	return utils._remove_commonwords(x, n)
 
 def remove_rare_words(x, n=20):
-	return utils._remove_rare_words(x, n=20)
+	return utils._remove_rare_words(x, n)
 
 def spelling_correction(x):
 	return utils._spelling_correction(x)
