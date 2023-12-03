@@ -10,4 +10,4 @@ Install
 
 Uninstall
 
-`pip uninstall preprocess_luch`
+`pip uninstall preprocess_luch001`
